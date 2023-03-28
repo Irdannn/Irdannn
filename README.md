@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irdannn
 - 👀 I’m interested in All about front-end developer
-- 🌱 I’m currently learning PHP Framework for better undestanding of API
+- 🌱 I’m currently learning PHP Framework for better undestanding of API,  of course i still honed my skill in trio frontend best language ; HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on front-end developer project
 - 📫 You can reach me by email "hallo@akuirdan.com"
 
